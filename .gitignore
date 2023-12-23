@@ -23,5 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Public files
+# Not relevant for github
 public
+src/json_files
